@@ -3,7 +3,7 @@ Feel free to browse my coding project Wrath Outdoor ( listed under projects )- a
 
 I have included the ,index and .css file 
 
-The compete 20 page website runs on my local drive alongside the image files etc - please let me know if you would like to see the full site :)
+The compete 20 page website runs on my local drive alongside the image files etc - please let me know if you would like to see the full site :) See the code here :)
 
 https://github.com/Omnet-digital/nomad7/blob/master/mystylesheet
 
