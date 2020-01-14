@@ -5,3 +5,6 @@ I have included the ,index and .css file
 
 The compete 20 page website runs on my local drive alongside the image files etc - please let me know if you would like to see the full site :)
 
+https://github.com/Omnet-digital/nomad7/blob/master/mystylesheet
+
+https://github.com/Omnet-digital/nomad7/blob/master/index
